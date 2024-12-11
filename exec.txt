@@ -1,0 +1,5 @@
+Run prog1 I=10 D=15
+Run prog2 I=30 D=10
+Run prog3 I=35 D=5
+Run prog4
+Run prog5
